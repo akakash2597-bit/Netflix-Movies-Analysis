@@ -24,10 +24,10 @@ This repository contains a comprehensive **Exploratory Data Analysis (EDA)** of 
 
 ###  Repository Structure
 
-netflix_titles.csv                # Contains the raw/cleaned dataset (e.g., netflix_titles.csv)
-netflix_analysis.ipynb            # Jupyter Notebook containing the Python code
-README.md                         # Project documentation (this file)
-images                            # Images of the Plots
+1. netflix_titles.csv                # Contains the raw/cleaned dataset (e.g., netflix_titles.csv)
+2. netflix_analysis.ipynb            # Jupyter Notebook containing the Python code
+3. README.md                         # Project documentation (this file)
+4. images                            # Images of the Plots
 
 Use code with caution.
 
