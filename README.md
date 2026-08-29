@@ -24,8 +24,6 @@ This repository contains a comprehensive **Exploratory Data Analysis (EDA)** of 
 
 ### 📂 Repository Structure
 
-text
-
 ├── netflix_titles.csv                # Contains the raw/cleaned dataset (e.g., netflix_titles.csv)
 ├── netflix_analysis.ipynb            # Jupyter Notebook containing the Python code
 ├── README.md                         # Project documentation (this file)
@@ -57,4 +55,4 @@ jupyter notebook netflix_analysis.ipynb
 
 ### ✍️ Author
 
-* **AKASH.V** - [Your GitHub Profile](https://github.com/akakash2597-bit)
+* **AKASH.V** - [GitHub Profile](https://github.com/akakash2597-bit)
