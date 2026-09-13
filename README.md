@@ -52,6 +52,14 @@ pip install pandas matplotlib jupyter
 
 jupyter notebook netflix_analysis.ipynb
 
+## Key Findings
+
+- Netflix contains more Movies than TV Shows.
+- The United States contributes the highest number of titles.
+- Content growth increased significantly after 2015.
+- TV-MA is the most common rating.
+- Drama and International Movies dominate the catalog.
+
 
 ###  Creator
 
